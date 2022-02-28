@@ -52,3 +52,8 @@ const alexMulgrew = {
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+
+<p align="center">
+<a href="https://www.codewars.com/users/apmcoding"><img src="https://www.codewars.com/users/apmcoding/badges/large" title="Codewars rank"><a>
+  </p>
